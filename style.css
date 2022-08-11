@@ -8,7 +8,7 @@
   }
 
   body{
-    background-image: url(galaxy3.jpg);
+    background-image: linear-gradient( #4E61FD, black);
     background-size: 1014px;
     background-attachment: fixed;
     background-color: #5ABFFA;
