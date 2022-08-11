@@ -22,10 +22,10 @@
     
   }
   header{
-    margin: auto;
+     margin: auto;
     text-align: center;
-    background-color: #4E61FD;
-    padding: 10px;
+    background-image: linear-gradient(to bottom, #4E61FD, black);
+    padding: 20px;
     border-top-left-radius:10px ;
     border-top-right-radius: 10px;
     box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.634);
